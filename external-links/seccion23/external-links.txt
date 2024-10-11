@@ -1,0 +1,15 @@
+
+009 Status-Codes
+https://www.restapitutorial.com/httpstatuscodes.html
+
+012 Mongodb-Atlas
+https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_americas_canada_search_brand_atlas_desktop&utm_term=mongo%20atlas&utm_medium=cpc_paid_search&utm_ad=e&gclid=Cj0KCQjwiYL3BRDVARIsAF9E4GfQWQYG_pbTlJA5eixJKM75IaFYqk4nUBlKe0iXkKn4kXc1HZmKSikaAtKzEALw_wcB
+
+012 MongooseJS.com
+https://mongoosejs.com/
+
+018 https-jwt.io-
+https://jwt.io/
+
+020 npm-cors
+https://www.npmjs.com/package/cors

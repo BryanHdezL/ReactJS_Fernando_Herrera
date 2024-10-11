@@ -1,0 +1,9 @@
+
+006 cloudinary.com-
+https://cloudinary.com/
+
+007 Cloudinary-delete-resources
+https://cloudinary.com/documentation/admin_api#delete_resources
+
+016 Variables-de-entorno-create-react-app
+https://create-react-app.dev/

@@ -1,0 +1,6 @@
+
+006 useReducer-React-Docs
+https://es.reactjs.org/docs/hooks-reference.html#usereducer
+
+011 Youtube-Fernando-Herrera-LocalStorage
+https://www.youtube.com/watch?v=hb8O0qRqiSk&t=2s

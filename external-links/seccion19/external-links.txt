@@ -1,0 +1,21 @@
+
+004 Redux-Sitio-oficial
+https://es.redux.js.org/
+
+004 React-Redux
+https://react-redux.js.org/
+
+004 Redux-Toolkit
+https://redux-toolkit.js.org/
+
+006 useForm-Hook
+https://github.com/Klerith/custom-hooks/blob/main/useForm/useForm.js
+
+007 Firebase-y-Firestore
+https://firebase.google.com/
+
+007 https-firebase.google.com-docs-web-modular-upgrade
+https://firebase.google.com/docs/web/modular-upgrade
+
+011 Validator-NPM
+https://www.npmjs.com/package/validator

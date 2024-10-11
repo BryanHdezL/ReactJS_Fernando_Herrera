@@ -1,0 +1,27 @@
+
+004 Create-React-App-Documentaci-n
+https://create-react-app.dev/
+
+004 Vite-documentation
+https://vitejs.dev/
+
+005 Referencia-Robots.txt
+https://support.google.com/webmasters/answer/6062608?hl=es
+
+005 Google-Developers-PWA
+https://developers.google.com/web/ilt/pwa
+
+005 React-Scripts
+https://create-react-app.dev/docs/available-scripts/
+
+016 Tarea-Referencia
+https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757
+
+017 Reactjs.org-Eventos
+https://es.reactjs.org/docs/events.html
+
+018 Reactjs.org-Hooks
+https://es.reactjs.org/docs/hooks-intro.html
+
+018 Ejemplo-Tarea-de-desestructuraci-n-de-arreglos
+https://github.com/Klerith/react-intro-javascript/blob/master/src/bases/07-deses-arr.js

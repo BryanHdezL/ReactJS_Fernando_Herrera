@@ -1,0 +1,15 @@
+
+003 getBootstrap.com-Sitio-oficial
+https://getbootstrap.com/
+
+013 https-pokeapi.co-
+https://pokeapi.co/
+
+016 https-tanstack.com-query-latest
+https://tanstack.com/query/latest
+
+016 https-fernando-herrera.com-course-react-query-
+https://fernando-herrera.com/course/react-query/
+
+018 useLayoutEffect-React-docs
+https://es.reactjs.org/docs/hooks-reference.html#uselayouteffect

@@ -1,0 +1,6 @@
+
+003 Configuraci-n-Vite-Jest-Testing-Library
+https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177
+
+016 React-Router-Testing-Docs
+https://reacttraining.com/react-router/web/guides/testing

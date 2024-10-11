@@ -1,0 +1,27 @@
+
+003 create-react-app-Official-Website
+https://create-react-app.dev/
+
+007 Mozilla-MDN-Array.map-
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/map
+
+009 Mozilla-MDN-Asignaci-n-Desestructurante
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment
+
+011 Heroes.js
+https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f
+
+011 Mozilla-Mdn-Find
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+013 Mozilla-MDN-Promesas
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise
+
+014 Giphy-API
+https://developers.giphy.com/
+
+014 Mozilla-MDN-Fetch
+https://developer.mozilla.org/es/docs/Web/API/Fetch_API
+
+018 Repositorio-de-Github-del-proyecto
+https://github.com/Klerith/react-intro-javascript

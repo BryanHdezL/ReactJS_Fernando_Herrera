@@ -1,0 +1,18 @@
+
+005 https-jestjs.io-
+https://jestjs.io/
+
+006 Jest-Documentaci-n-oficial
+https://jestjs.io/
+
+011 heroes.js-Gist
+https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f
+
+013 Giphy-API-Developers
+https://developers.giphy.com/
+
+015 https-jestjs.io-docs-getting-started
+https://jestjs.io/docs/getting-started
+
+015 https-testing-library.com-
+https://testing-library.com/

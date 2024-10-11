@@ -1,0 +1,9 @@
+
+005 https-redux-toolkit.js.org-
+https://redux-toolkit.js.org/
+
+005 Redux-DevTools-Chrome
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
+009 Snippet-y-Gists-de-Slice
+https://gist.github.com/Klerith/060281f76f3b7f0a458e4b83b1fc0062

@@ -1,0 +1,21 @@
+
+006 Gist-Navbar
+https://gist.github.com/Klerith/566b484ac6fe46c8fa949e61df671a18
+
+006 https-reactrouter.com-Versi-n-6
+https://reactrouter.com/
+
+006 Migrar-de-React-Router-v5-a-v6
+https://www.youtube.com/watch?v=FR7x0tqwafc
+
+006 React-Router-Docs
+https://reactrouter.com/en/6.4.4/start/tutorial#setup
+
+010 HeroesList-Data
+https://gist.github.com/Klerith/934da045caae0fec3a1067d013926c46
+
+016 Animate.css
+https://animate.style/
+
+018 https-github.com-Klerith-custom-hooks-blob-main-useForm-useForm.js
+https://github.com/Klerith/custom-hooks/blob/main/useForm/useForm.js
