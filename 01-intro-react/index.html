@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Cargar React -->
+  <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <!-- Title -->
+  <title>ReactApp</title>
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <!-- Component -->
+  <script type="text/babel">
+    // Reference of div element
+    const divRoot = document.querySelector('#root');
+    // Elements HTML to add
+    const name = 'Bryan Hernández'
+    const h1Tag = <h1>Hola, soy {name}!</h1>;
+    // Reder component
+    ReactDOM.render(h1Tag, divRoot);
+  </script>
+</body>
+
+</html>
