@@ -1,0 +1,16 @@
+* {
+  font-family: system-ui;
+}
+
+html,
+body {
+  background-color: #21232A;
+  color: white;
+  margin: 1%;
+}
+
+button {
+  padding: 15px;
+  font-size: 1.3rem;
+  margin-right: 5px;
+}
